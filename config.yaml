@@ -1,0 +1,44 @@
+# News Scraper Demo Configuration
+# Swap target_site, pagination_selector, and article_selector
+# to point at any paginated news archive.
+
+target_site:
+  name: "Hacker News"
+  base_url: "https://news.ycombinator.com/"
+  article_container: "tr.athing"
+  title_selector: "span.titleline > a"
+  subtitle_selector: "td.subtext"
+  next_page_selector: "a.morelink"
+  url_prefix: "https://news.ycombinator.com/"
+
+scraping:
+  max_pages: 2
+  delay_between_requests: 3.0       # seconds (rate limiting)
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+keywords:
+  - "artificial intelligence"
+  - "machine learning"
+  - "python"
+  - "startup"
+  - "technology"
+  - "security"
+  - "data"
+  - "open source"
+
+filtering:
+  method: "semantic"                # "keyword" | "semantic"
+  similarity_threshold: 0.20        # cosine similarity threshold (0.0 - 1.0)
+  model_name: "all-MiniLM-L6-v2"    # sentence-transformers model
+
+export:
+  format: "csv"                     # "csv" | "google_sheets"
+  filename: "demo_output.csv"
+  fields:
+    - headline
+    - url
+    - publication_date
+    - source
+    - summary
+    - category         # assigned based on best matching keyword
+    - relevance_score  # semantic similarity score
