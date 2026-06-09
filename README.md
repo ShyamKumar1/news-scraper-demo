@@ -2,7 +2,19 @@
 
 **A production-ready web scraping system** that crawls paginated news archives, applies AI-powered semantic keyword filtering, and exports structured results to CSV or Google Sheets.
 
-## Quick Start
+## Live Dashboard
+
+Run the interactive web UI:
+
+```bash
+pip install -r requirements.txt
+uvicorn app:app --host 0.0.0.0 --port 8080
+# Open http://localhost:8080
+```
+
+The dashboard loads pre-scraped demo data on startup. Adjust keywords, threshold, and target URL, then click **Run** to execute a live scrape with semantic filtering.
+
+## Quick Start (CLI)
 
 ```bash
 pip install -r requirements.txt
