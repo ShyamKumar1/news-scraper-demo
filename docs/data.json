@@ -1,0 +1,288 @@
+{
+  "total_scraped": 60,
+  "total_filtered": 34,
+  "results": [
+    {
+      "headline": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "source": "Hacker News",
+      "summary": "260 points by raffael_de 4 hours ago | hide | 102\u00a0comments",
+      "category": "open source",
+      "relevance_score": 0.3667
+    },
+    {
+      "headline": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
+      "url": "https://github.com/luke8086/gentleos32",
+      "source": "Hacker News",
+      "summary": "131 points by tekkertje 2 hours ago | hide | 29\u00a0comments",
+      "category": "python",
+      "relevance_score": 0.2387
+    },
+    {
+      "headline": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "source": "Hacker News",
+      "summary": "55 points by sklopec 1 hour ago | hide | 9\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2236
+    },
+    {
+      "headline": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "source": "Hacker News",
+      "summary": "317 points by ternaus 9 hours ago | hide | 50\u00a0comments",
+      "category": "open source",
+      "relevance_score": 0.2453
+    },
+    {
+      "headline": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "source": "Hacker News",
+      "summary": "628 points by unclefuzzy 17 hours ago | hide | 476\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.335
+    },
+    {
+      "headline": "Thi.ng \u2013 open-source building blocks for computational design and art",
+      "url": "https://thi.ng",
+      "source": "Hacker News",
+      "summary": "69 points by nmstoker 6 hours ago | hide | 13\u00a0comments",
+      "category": "open source",
+      "relevance_score": 0.4506
+    },
+    {
+      "headline": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "source": "Hacker News",
+      "summary": "608 points by 0xedb 18 hours ago | hide | 582\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2301
+    },
+    {
+      "headline": "Eagle Computer: The rise and fall of an early PC clone",
+      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
+      "source": "Hacker News",
+      "summary": "17 points by giuliomagnifico 3 hours ago | hide | 2\u00a0comments",
+      "category": "startup",
+      "relevance_score": 0.2731
+    },
+    {
+      "headline": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "source": "Hacker News",
+      "summary": "589 points by martinald 21 hours ago | hide | 459\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.3181
+    },
+    {
+      "headline": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "source": "Hacker News",
+      "summary": "1025 points by lizhang 22 hours ago | hide | 187\u00a0comments",
+      "category": "technology",
+      "relevance_score": 0.263
+    },
+    {
+      "headline": "Softmax: Why neural networks need non-linearity? life isn't straight-line simple",
+      "url": "https://blog.sparsh.dev/softmax-activation-function/",
+      "source": "Hacker News",
+      "summary": "4 points by sparshrestha 1 hour ago | hide | 1\u00a0comment",
+      "category": "machine learning",
+      "relevance_score": 0.2589
+    },
+    {
+      "headline": "Old'aVista \u2013 The most powerful guide to the old Internet",
+      "url": "https://oldavista.com/",
+      "source": "Hacker News",
+      "summary": "124 points by abnercoimbre 10 hours ago | hide | 28\u00a0comments",
+      "category": "open source",
+      "relevance_score": 0.3002
+    },
+    {
+      "headline": "Porting the ThinkPad X61 to Coreboot",
+      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "source": "Hacker News",
+      "summary": "94 points by walterbell 8 hours ago | hide | 38\u00a0comments",
+      "category": "startup",
+      "relevance_score": 0.2935
+    },
+    {
+      "headline": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "source": "Hacker News",
+      "summary": "316 points by hmokiguess 17 hours ago | hide | 83\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.2742
+    },
+    {
+      "headline": "Show HN: Gitdot \u2013 A better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
+      "source": "Hacker News",
+      "summary": "278 points by baepaul 16 hours ago | hide | 255\u00a0comments",
+      "category": "open source",
+      "relevance_score": 0.3267
+    },
+    {
+      "headline": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "source": "Hacker News",
+      "summary": "341 points by aryamaan 18 hours ago | hide | 554\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.3341
+    },
+    {
+      "headline": "FrontierCode",
+      "url": "https://cognition.ai/blog/frontier-code",
+      "source": "Hacker News",
+      "summary": "216 points by streamer45 15 hours ago | hide | 38\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2295
+    },
+    {
+      "headline": "Passing DBs through continuations",
+      "url": "https://remy.wang/blog/cps.html",
+      "source": "Hacker News",
+      "summary": "62 points by remywang 10 hours ago | hide | 9\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2381
+    },
+    {
+      "headline": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "source": "Hacker News",
+      "summary": "156 points by mailyk 17 hours ago | hide | 69\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2867
+    },
+    {
+      "headline": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "source": "Hacker News",
+      "summary": "612 points by g0xA52A2A 16 hours ago | hide | 266\u00a0comments",
+      "category": "security",
+      "relevance_score": 0.4522
+    },
+    {
+      "headline": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "source": "Hacker News",
+      "summary": "587 points by crescit_eundo 20 hours ago | hide | 632\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.362
+    },
+    {
+      "headline": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "Hacker News",
+      "summary": "72 points by jbernardo95 15 hours ago | hide | 32\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.2641
+    },
+    {
+      "headline": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "source": "Hacker News",
+      "summary": "9 points by BrunoBernardino 3 hours ago | hide | discuss",
+      "category": "artificial intelligence",
+      "relevance_score": 0.2986
+    },
+    {
+      "headline": "OCaml Onboarding: Introduction to the Dune build system",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "source": "Hacker News",
+      "summary": "161 points by andrewstetsenko 21 hours ago | hide | 29\u00a0comments",
+      "category": "open source",
+      "relevance_score": 0.2039
+    },
+    {
+      "headline": "Job: Head of Stonehenge",
+      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "source": "Hacker News",
+      "summary": "168 points by mooreds 9 hours ago | hide | 138\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.2219
+    },
+    {
+      "headline": "Are you expected to run five Python type-checkers now?",
+      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+      "source": "Hacker News",
+      "summary": "158 points by ocamoss 1 day ago | hide | 174\u00a0comments",
+      "category": "python",
+      "relevance_score": 0.4462
+    },
+    {
+      "headline": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "source": "Hacker News",
+      "summary": "344 points by hackerBanana 15 hours ago | hide | 287\u00a0comments",
+      "category": "security",
+      "relevance_score": 0.375
+    },
+    {
+      "headline": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "source": "Hacker News",
+      "summary": "339 points by 01-_- 19 hours ago | hide | 50\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2977
+    },
+    {
+      "headline": "Games Between Programs: The Ruliology of Competition",
+      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+      "source": "Hacker News",
+      "summary": "30 points by andromaton 13 hours ago | hide | 4\u00a0comments",
+      "category": "artificial intelligence",
+      "relevance_score": 0.2732
+    },
+    {
+      "headline": "Fooling Go's X.509 Certificate Verification",
+      "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+      "source": "Hacker News",
+      "summary": "56 points by hasheddan 16 hours ago | hide | 27\u00a0comments",
+      "category": "security",
+      "relevance_score": 0.2443
+    },
+    {
+      "headline": "Zig Structs of Arrays (2024)",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "source": "Hacker News",
+      "summary": "123 points by Tomte 1 day ago | hide | 46\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2305
+    },
+    {
+      "headline": "Doing something that\u2019s never been done before (2025)",
+      "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+      "source": "Hacker News",
+      "summary": "36 points by surprisetalk 15 hours ago | hide | 30\u00a0comments",
+      "category": "technology",
+      "relevance_score": 0.2754
+    },
+    {
+      "headline": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "source": "Hacker News",
+      "summary": "219 points by dariubs 23 hours ago | hide | 102\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2198
+    },
+    {
+      "headline": "Spanish traders set the standard for GnuCash database design",
+      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+      "source": "Hacker News",
+      "summary": "126 points by vitalikpie 23 hours ago | hide | 80\u00a0comments",
+      "category": "data",
+      "relevance_score": 0.2305
+    }
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "machine learning",
+    "python",
+    "startup",
+    "technology",
+    "security",
+    "data",
+    "open source"
+  ]
+}
